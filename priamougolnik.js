@@ -14,13 +14,3 @@
     console.log(s);
 }
 priampugolnik(2, 5, 4);
-
-
-
-
-
-
-
-
-
-
