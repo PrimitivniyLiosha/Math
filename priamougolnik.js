@@ -1,4 +1,4 @@
- let priampugolnik = (a, b, n) => {
+const priampugolnik = (a, b, n) => {
     let x = a;
     let fx = x * x;
     let s = 0;
